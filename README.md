@@ -64,7 +64,7 @@ Provide visibility into:
 
 ---
 
-📊 Key Features
+## 📊 Key Features
 ### ✅ Medallion Architecture
 - Clear separation of raw, cleaned, and business-ready data
   
