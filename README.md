@@ -34,6 +34,9 @@ Gold Layer (Business-Ready Data Model)
 Power BI (KPIs & Dashboards)
 
 
+<pre> ```text Raw Data Sources (Excel + GL Tables) ↓ Bronze Layer (Raw Ingestion) ↓ Silver Layer (Data Cleaning & Standardization) ↓ Gold Layer (Business-Ready Data Model) ↓ Power BI (KPIs & Dashboards) ``` </pre>
+
+
 --- 
 
 ## 🧱 Data Model
