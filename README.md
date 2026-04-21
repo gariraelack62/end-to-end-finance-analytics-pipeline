@@ -65,20 +65,20 @@ Provide visibility into:
 ---
 
 📊 Key Features
-✅ Medallion Architecture
+- ✅ Medallion Architecture
 Clear separation of raw, cleaned, and business-ready data
-✅ Data Quality & Standardization
+- ✅ Data Quality & Standardization
 Type casting, trimming, normalization
 Resolution of mapping inconsistencies from finance stakeholders
-✅ P&L Mapping Logic
+- ✅ P&L Mapping Logic
 Account-level classification into:
 Revenue
 COGS
 Operating Expenses
 Financial Items
-✅ Monthly Aggregation
+- ✅ Monthly Aggregation
 Time-based financial reporting using DATE_TRUNC
-✅ Scenario Analysis
+- ✅ Scenario Analysis
 Actual vs Best Case vs Worst Case
 Simulates financial sensitivity:
 Revenue ↑ / ↓
